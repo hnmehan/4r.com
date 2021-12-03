@@ -1,0 +1,1 @@
+SMTPT SERVER=Mail.google.com
